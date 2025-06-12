@@ -1,16 +1,21 @@
-## Hi there 👋
+# About me
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  
+</head>
+<body>
+  <h1>Hello, I’m Jerónimo Piedrahita</h1>
 
-<!--
-**JeroPiedrahita/JeroPiedrahita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <section>
+    <h2>👨‍🎓 About Me</h2>
+    <p>I am Jerónimo Piedrahita, a Mechanical Engineering student at Universidad EAFIT. I am currently in my eighth semester. I consider myself a curious person committed to innovation.</p>
+  </section>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <section>
+    <h2>💡 Interests</h2>
+    <p>I am passionate about energy systems, renewable energy, and recently I have seen great potential in artificial intelligence and data science applied to engineering.</p>
+  </section>
+hgyj
