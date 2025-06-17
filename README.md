@@ -40,5 +40,10 @@
     <h2>🎯 Professional Goals</h2>
     <p>I am to work in the energy sector, a field with great potential for innovation and the development of more efficient technologies for generation and distribution. I am also interested in applying data science to improve engineering decision-making.</p>
   </section>
+
+  ### :zap: Actividad reciente
+  <!--START_SECTION:activity-->
+
+  <!--END_SECTION:activity-->
 </body>
 </html>
