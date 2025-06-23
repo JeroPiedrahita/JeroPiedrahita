@@ -43,14 +43,14 @@
 
   ### :zap: Actividad reciente
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [JeroPiedrahita/Micuartorepo](https://github.com/JeroPiedrahita/Micuartorepo)<br>
-2. 🎉 Merged PR [#1](https://github.com/JeroPiedrahita/Micuartorepo/pull/1) in [JeroPiedrahita/Micuartorepo](https://github.com/JeroPiedrahita/Micuartorepo)<br>
-3. 💪 Opened PR [#1](https://github.com/JeroPiedrahita/Micuartorepo/pull/1) in [JeroPiedrahita/Micuartorepo](https://github.com/JeroPiedrahita/Micuartorepo)<br>
-4. ⬆️ Pushed 1 commit(s) to [JeroPiedrahita/Micuartorepo](https://github.com/JeroPiedrahita/Micuartorepo)<br>
-5. 📔 Created new repository [JeroPiedrahita/Micuartorepo](https://github.com/JeroPiedrahita/Micuartorepo)<br>
+1. ⬆️ Pushed 3 commit(s) to [JeroPiedrahita/OKVET_DS_PROJECT](https://github.com/JeroPiedrahita/OKVET_DS_PROJECT)<br>
+2. 🎉 Merged PR [#1](https://github.com/JeroPiedrahita/OKVET_DS_PROJECT/pull/1) in [JeroPiedrahita/OKVET_DS_PROJECT](https://github.com/JeroPiedrahita/OKVET_DS_PROJECT)<br>
+3. 💪 Opened PR [#1](https://github.com/JeroPiedrahita/OKVET_DS_PROJECT/pull/1) in [JeroPiedrahita/OKVET_DS_PROJECT](https://github.com/JeroPiedrahita/OKVET_DS_PROJECT)<br>
+4. ⬆️ Pushed 1 commit(s) to [JeroPiedrahita/OKVET_DS_PROJECT](https://github.com/JeroPiedrahita/OKVET_DS_PROJECT)<br>
+5. ⬆️ Pushed 2 commit(s) to [JeroPiedrahita/Micuartorepo](https://github.com/JeroPiedrahita/Micuartorepo)<br>
 <!--RECENT_ACTIVITY:end-->
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 22nd, 2025, 1:17:52 PM
+Last Updated: Monday, June 23rd, 2025, 3:46:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </body>
 </html>
