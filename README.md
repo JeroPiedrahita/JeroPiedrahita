@@ -43,14 +43,9 @@
 
   ### :zap: Actividad reciente
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [JeroPiedrahita/OKVET_DS_PROJECT](https://github.com/JeroPiedrahita/OKVET_DS_PROJECT)<br>
-2. ⬆️ Pushed 3 commit(s) to [JeroPiedrahita/OKVET_DS_PROJECT](https://github.com/JeroPiedrahita/OKVET_DS_PROJECT)<br>
-3. 🎉 Merged PR [#2](https://github.com/JeroPiedrahita/OKVET_DS_PROJECT/pull/2) in [JeroPiedrahita/OKVET_DS_PROJECT](https://github.com/JeroPiedrahita/OKVET_DS_PROJECT)<br>
-4. ⬆️ Pushed 5 commit(s) to [JeroPiedrahita/OKVET_DS_PROJECT](https://github.com/JeroPiedrahita/OKVET_DS_PROJECT)<br>
-5. 💪 Opened PR [#2](https://github.com/JeroPiedrahita/OKVET_DS_PROJECT/pull/2) in [JeroPiedrahita/OKVET_DS_PROJECT](https://github.com/JeroPiedrahita/OKVET_DS_PROJECT)<br>
 <!--RECENT_ACTIVITY:end-->
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 30th, 2025, 1:47:05 AM
+Last Updated: Wednesday, July 30th, 2025, 12:43:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </body>
 </html>
