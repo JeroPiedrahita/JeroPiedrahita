@@ -43,14 +43,14 @@
 
   ### :zap: Actividad reciente
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [JeroPiedrahita/Prototipo_Dashboard](https://github.com/JeroPiedrahita/Prototipo_Dashboard)<br>
-2. ⬆️ Pushed undefined commit(s) to [JeroPiedrahita/Prototipo_Dashboard](https://github.com/JeroPiedrahita/Prototipo_Dashboard)<br>
-3. ⬆️ Pushed undefined commit(s) to [JeroPiedrahita/Prototipo_Dashboard](https://github.com/JeroPiedrahita/Prototipo_Dashboard)<br>
-4. ⬆️ Pushed undefined commit(s) to [JeroPiedrahita/Prototipo_Dashboard](https://github.com/JeroPiedrahita/Prototipo_Dashboard)<br>
-5. ⬆️ Pushed undefined commit(s) to [JeroPiedrahita/Prototipo_Dashboard](https://github.com/JeroPiedrahita/Prototipo_Dashboard)<br>
+1. ⬆️ Pushed undefined commit(s) to [JeroPiedrahita/Challenge_2](https://github.com/JeroPiedrahita/Challenge_2)<br>
+2. ⬆️ Pushed undefined commit(s) to [JeroPiedrahita/Challenge_2](https://github.com/JeroPiedrahita/Challenge_2)<br>
+3. ⬆️ Pushed undefined commit(s) to [JeroPiedrahita/Challenge_2](https://github.com/JeroPiedrahita/Challenge_2)<br>
+4. ⬆️ Pushed undefined commit(s) to [JeroPiedrahita/Challenge_2](https://github.com/JeroPiedrahita/Challenge_2)<br>
+5. ⬆️ Pushed undefined commit(s) to [JeroPiedrahita/Challenge_2](https://github.com/JeroPiedrahita/Challenge_2)<br>
 <!--RECENT_ACTIVITY:end-->
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 31st, 2026, 1:31:40 PM
+Last Updated: Sunday, February 1st, 2026, 2:24:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </body>
 </html>
