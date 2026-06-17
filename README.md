@@ -44,13 +44,13 @@
   ### :zap: Actividad reciente
   <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [JeroPiedrahita/MiniPay](https://github.com/JeroPiedrahita/MiniPay)<br>
-2. ⬆️ Pushed undefined commit(s) to [JeroPiedrahita/Aprendizaje-Automatico_Taller_20261](https://github.com/JeroPiedrahita/Aprendizaje-Automatico_Taller_20261)<br>
+2. ⬆️ Pushed undefined commit(s) to [JeroPiedrahita/MiniPay](https://github.com/JeroPiedrahita/MiniPay)<br>
 3. ⬆️ Pushed undefined commit(s) to [JeroPiedrahita/Aprendizaje-Automatico_Taller_20261](https://github.com/JeroPiedrahita/Aprendizaje-Automatico_Taller_20261)<br>
 4. ⬆️ Pushed undefined commit(s) to [JeroPiedrahita/Aprendizaje-Automatico_Taller_20261](https://github.com/JeroPiedrahita/Aprendizaje-Automatico_Taller_20261)<br>
 5. ⬆️ Pushed undefined commit(s) to [JeroPiedrahita/Aprendizaje-Automatico_Taller_20261](https://github.com/JeroPiedrahita/Aprendizaje-Automatico_Taller_20261)<br>
 <!--RECENT_ACTIVITY:end-->
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 16th, 2026, 4:50:35 PM
+Last Updated: Wednesday, June 17th, 2026, 4:05:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </body>
 </html>
